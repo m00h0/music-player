@@ -23,3 +23,5 @@
 ## 📖 About the Project <a name="about-project"></a>
 
 ### 🛠 Built With <a name="built-with"></a>
+
+#### Tech Stack <a name="tech-stack"></a>
