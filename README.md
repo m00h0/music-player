@@ -19,3 +19,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+
+## 📖 About the Project <a name="about-project"></a>
+
