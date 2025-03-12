@@ -62,4 +62,36 @@ function loadSong(songs) {
 }
 
 // on load - select first song
-loadSong(songs[2]);
+
+let songIndex = 0;
+
+loadSong(songs[songIndex]);
+
+// prev song
+
+function prevSong() {
+  songIndex -= 1;
+  if (songIndex < 0) {
+    songIndex = songs.length - 1;
+  }
+  loadSong(songs[songIndex]);
+  playSong();
+}
+
+// next song
+
+function nextSong() {
+  songIndex += 1;
+  if (songIndex > songs.length - 1) {
+    songIndex = 0;
+  }
+  loadSong(songs[songIndex]);
+  playSong();
+}
+
+// Event listeners
+
+prevBtn.addEventListener('click', prevSong);
+nextBtn.addEventListener('click', nextSong);
+music.addEventListener('ended', nextSong);
+
