@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  background-color: #bebebe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.player-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2%;
+  height: 500px;
+  width: 400px;
+  background-color: #d8d8d8;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.img-container {
+  position: relative;
+  top: -50px;
+}
+
+.img-container img {
+  width: 250px;
+  height: 300px;
+  border-radius: 5%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.progress-container {
+  width: 80%;
+  height: 10px;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.progress {
+  width: 0%;
+  height: 100%;
+  transition: width 0.1s linear;
+  background-color: #272626;
+  border-radius: 5px;
+}
+
+.duration-wrapper {
+  position: relative;
+  top: -30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  width: 100%; /* Ensure the wrapper takes the full width of the parent */
+}
+
+.play-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.fas {
+  color: #555555;
+  font-size: 25px;
+  cursor: pointer;
+  user-select: none;
+  padding: 10px;
+}
+
+.fas:hover {
+  color: #000000;
+}
+
+@media screen and (max-width: 500px) {
+  .player-container {
+    width: 300px;
+  }
+}
