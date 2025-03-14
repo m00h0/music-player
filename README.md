@@ -88,8 +88,18 @@ Open http://localhost:5500in your browser.
 GitHub: @m00h0
 
 
-🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
+- **Playlist Support**: Ability to create, edit, and manage playlists.
+- **Equalizer**: Built-in equalizer to adjust audio frequencies.
+- **Offline Mode**: Download songs for offline playback.
+- **User Authentication**: Sign up and log in to save preferences and playlists.
+- **Social Sharing**: Share your favorite tracks and playlists on social media.
+- **Lyrics Display**: Show lyrics in sync with the music.
+- **Dark Mode**: Toggle between light and dark themes.
+- **Podcast Support**: Play and manage podcasts within the app.
+- **Customizable UI**: Personalize the interface with themes and color schemes.
+- **Advanced Search**: Enhanced search functionality with filters and suggestions.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
