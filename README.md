@@ -22,9 +22,12 @@
 
 ## 📖 About the Project <a name="about-project"></a>
 
-   This Music Player is a responsive web application that allows users to listen to music with a clean, intuitive interface. It's built with vanilla JavaScript, HTML, and CSS, focusing on providing a seamless audio playback experience with modern controls and visual elements
-   
+ This Music Player is a responsive web application that allows users to listen to music with a clean, intuitive interface. It's built with vanilla JavaScript, HTML, and CSS, focusing on providing a seamless audio playback experience with modern controls and visual elements
+
 ### 🛠 Built With <a name="built-with"></a>
+- HTML: For structuring the web page.
+- CSS: For styling the web page.
+- JavaScript: for functionality
 
 #### Tech Stack <a name="tech-stack"></a>
 
