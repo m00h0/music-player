@@ -105,7 +105,7 @@ GitHub: @m00h0
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/m00h0//issues).
+Feel free to check the [issues page](https://github.com/m00h0/music-player/issues).
 
 ⭐️ Show your support <a name="support"></a>
 
