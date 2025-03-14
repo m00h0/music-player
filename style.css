@@ -7,7 +7,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  align-items: center;
   font-family: 'Roboto', sans-serif;
   background-color: #bebebe;
   display: flex;
@@ -79,7 +78,7 @@ body {
 }
 
 .fas {
-  color: #555555;
+  color: #555;
   font-size: 25px;
   cursor: pointer;
   user-select: none;
@@ -87,7 +86,7 @@ body {
 }
 
 .fas:hover {
-  color: #000000;
+  color: #000;
 }
 
 @media screen and (max-width: 500px) {
