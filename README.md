@@ -18,7 +18,6 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 
 ## 📖 About the Project <a name="about-project"></a>
 
@@ -31,7 +30,19 @@
 
 #### Tech Stack <a name="tech-stack"></a>
 
+- HTML
+- CSS
+- JavaScript
+
 #### Key Features <a name="key-features"></a>
+
+- Play, pause, skip forward, and skip backward functionality
+- Dynamic track progress bar with interactive seeking
+- Real-time display of current playback time and total duration
+- Automatic track switching when a song ends
+- Responsive design that works on various screen sizes
+- Clean user interface with album artwork display
+- Multiple track support with seamless switching between songs
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
