@@ -59,7 +59,7 @@ To get a local copy up and running, follow these steps:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/m00h0/
+git clone https://github.com/m00h0/music-player.git
 
 ```
 Install <a name="install"></a>
